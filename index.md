@@ -1,3 +1,5 @@
-# Welcome to my blog
+# I'm trying to learn how to do it!
 
-I'm glad you are here. I plan to talk about ...
+It's pretty awesome.
+
+Isn't it?
